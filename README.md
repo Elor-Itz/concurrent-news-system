@@ -49,7 +49,7 @@ The input file should contain the following information:
 
 The last line should contain the buffer size for the co-editor queue.
 
-Example
+Example:
 
 ```plaintext
 1
