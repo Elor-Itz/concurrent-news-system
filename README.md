@@ -37,7 +37,7 @@ To run the program, use the following command:
 ./main <input_file.txt>
 ```
 
-Replace <input_file> with the path to your input file.
+Replace <input_file.txt> with the path to your input file.
 
 ### Input File Format
 
