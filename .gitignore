@@ -1,0 +1,16 @@
+# Ignore build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore Visual Studio Code settings
+.vscode/
